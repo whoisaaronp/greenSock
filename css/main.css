@@ -1,0 +1,24 @@
+@charset"UTF-8";
+/*CSS Doc*/
+
+/* comments */
+
+.hidden
+{
+	display: none;
+}
+
+
+#siteContainer
+{
+	width: 1240px;
+	margin: 0 auto;
+}
+
+.box
+{
+	position: relative;
+	width: 250px;
+	height: 250px;
+	background-color: orange;
+}
